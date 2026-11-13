@@ -1,9 +1,10 @@
-
+import practice from "./practice"
 
 function App() {
 
   return (
-    <h1>hello world</h1>
+    <practice/>
+    // <h1>hello world</h1>
   )
 }
 
