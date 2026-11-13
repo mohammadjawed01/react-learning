@@ -1,10 +1,12 @@
-import practice from "./practice"
+import Practice from "./practice"
 
 function App() {
 
   return (
-    <practice/>
-    // <h1>hello world</h1>
+    <>
+    <Practice/>
+    <h1>hello world</h1>
+    </>
   )
 }
 
